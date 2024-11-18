@@ -1,2 +1,2 @@
 # heron
-Automation server
+Automation manager
